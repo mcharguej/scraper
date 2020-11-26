@@ -13,6 +13,7 @@ var productUrls = ['https://www.bestbuy.com/site/nvidia-geforce-rtx-3070-8gb-gdd
                    'https://www.newegg.com/asus-geforce-rtx-3070-rog-strix-rtx3070-o8g-gaming/p/N82E16814126458?Description=strix%203070&cm_re=strix_3070-_-14-126-458-_-Product',
                    'https://www.newegg.com/gigabyte-geforce-rtx-3070-gv-n3070gaming-oc-8gd/p/N82E16814932342?Description=3070&cm_re=3070-_-14-932-342-_-Product&quicklink=true',
                    'https://www.newegg.com/gigabyte-geforce-rtx-3070-gv-n3070aorus-m-8gd/p/N82E16814932359?Description=3070&cm_re=3070-_-14-932-359-_-Product',
+                   'https://www.newegg.com/msi-geforce-rtx-3070-rtx-3070-gaming-x-trio/p/N82E16814137603?Description=gtx%203070&cm_re=gtx_3070-_-14-137-603-_-Product',
                   ]
 
 
